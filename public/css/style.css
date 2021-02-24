@@ -164,9 +164,8 @@
   display: block;
 }
 
-.about-bio img {
-  height: 20rem;
-  margin-right: 20px;
+.about-bio figure {
+  float: left;
 }
 
 /* Links page */
@@ -188,4 +187,8 @@
 
 .email {
   size: 85%;
+}
+
+.download-button {
+  margin-left: 70px;
 }

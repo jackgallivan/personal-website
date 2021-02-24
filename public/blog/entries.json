@@ -12,6 +12,6 @@
   "entry-3": {
     "title": "Added some more javascript",
     "date": "2/23/2021",
-    "content": "Today I made all the blog entries populate via javascript instead of static html. It took a while. I also figured out a good way to add blog entries dynamically using a single json file for all the entries. Now I can add more and change them without taking the server down!!"
+    "content": "Today I made all the blog entries populate via javascript instead of static html. It took a while. I also figured out an easy way to add blog entries dynamically using a single json file for all the entries. Now I can add more and change them without restarting the server!!"
   }
 }
