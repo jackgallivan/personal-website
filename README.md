@@ -1,3 +1,3 @@
-# CS290-Project
+# Web Development Project
 
-Repository for my project. It's a simple personal website.
+A personal website for myself. It's not currently hosted.
